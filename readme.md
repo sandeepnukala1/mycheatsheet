@@ -24,3 +24,7 @@ git status
 ```
 
 three ways to add files to staging
+
+- add one file at a time `git add <filename>`
+- add all files in the repo `git add -A`
+- add all files in my current folder with `git add
