@@ -57,4 +57,6 @@ git log --oneline
 
 - to push the code `git push <remoteName> <branchName>`
 
+- to remove a remote `git remote rm <remoteName>`
+
 - to see your current branch `git branch`
